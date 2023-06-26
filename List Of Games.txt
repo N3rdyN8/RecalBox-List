@@ -1,0 +1,90 @@
+3DO
+Amiga
+Amiga (AGA)
+Amiga CD32
+Amiga CDTV
+Apple II
+Apple IIGS
+Atari 5200
+Atari 7800
+Atari 8bit
+Atari ST
+Atari2600
+Atomiswave
+BBC Micro
+BK
+CD-i
+CPC
+Channel F
+Commodore 64
+Daphne
+Dreamcast
+EasyRPG
+Family Computer Disk System
+GX4000
+Game & watch
+Game Boy
+Game Gear
+GameBoy Advance
+GameBoy Color
+Gamecube
+Intellivision
+Jaguar
+LowRes NX
+Lynx
+MGT SAM Coupe
+MSX
+MSX Turbo R
+MSX2
+Mame
+Master System
+Mega-CD
+Megadrive
+Megadrive 32X
+Model 3
+NEC PC-8801
+NES
+Naomi
+Naomi GD-ROM
+Neo-Geo
+Neo-Geo CD
+Neo-Geo Pocket
+Neo-Geo Pocket Color
+Nintendo 64
+Nintendo 64DD
+Nintendo DS
+OpenBOR
+Oric 1/Atmos
+PC Dos
+PC Engine
+PC Engine CD-Rom
+PC Windows
+PC-FX
+PSP
+Palm OS
+Pico-8
+Playstation
+Playstation 2
+Pocket Challenge V2
+Pokemon Mini
+Satellaview
+Saturn
+ScummVM
+Sharp X1
+Solarus
+Spectravideo
+Super Grafx
+Super Nintendo
+Super cassette Vision
+TI-99/4A
+TIC-80
+TRS-80 Color Computer
+Thomson MO/TO
+Uzebox
+Vectrex
+Vic-20
+Videopac G7000
+Virtual Boy
+Wii
+WonderSwan
+WonderSwan Color
